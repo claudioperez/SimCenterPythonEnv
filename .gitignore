@@ -1,0 +1,35 @@
+# Compiled python modules
+*.pyc
+
+# Setuptools build and distribution folder
+/build/
+/dist/
+
+# Documentation
+/doc_src/_build
+
+# PyCharm folders
+/.idea
+/.cache
+
+# coverage
+.coverage
+
+# Python egg metadata, regenerated from source files by setuptools
+/*.egg-info
+/*.egg
+
+# Temporary jupyter files
+/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+__pycache__
+*.bak
+
+# Emacs automated backup files
+*~/
+/.emacs.desktop
+/.emacs.desktop.lock
+.cov2emacs.log
+flycheck*.py
+/notes/
