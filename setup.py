@@ -40,6 +40,7 @@ setup(
         'openpyxl',
         'tables',
         'openseespy',
+        'opensees',
         'scikit-learn',
         'plotly',
         'colorlover',
